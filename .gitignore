@@ -1,0 +1,9 @@
+.vs
+bin/
+obj/
+Properties/
+appsettings.Development.json
+appsettings.json
+WebnApp.csproj
+WebApp.csproj.user
+WebApp.sln
